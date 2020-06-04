@@ -1,6 +1,7 @@
 """
 Bead sort only works for sequences of nonegative integers.
 https://en.wikipedia.org/wiki/Bead_sort
+what fuck
 """
 
 
